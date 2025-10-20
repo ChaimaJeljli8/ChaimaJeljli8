@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimajeljli8&label=Profile%20views&color=0e75b6&style=flat" alt="chaimajeljli8" /> </p>
 
-- 🌱 I’m currently learning **Angular and spring boot**
+- 🌱 I’m currently learning **Angular, spring boot, nest and flutter Clean Architecture**
 
 - 📫 How to reach me **jeljlichaima12@gmail.com**
 
